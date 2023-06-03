@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">记事本</string>
+
+
+    <string-array name="express_company">
+        <item>中通快递</item>
+        <item>申通快递</item>
+        <item>圆通速递</item>
+    </string-array>
+</resources>
